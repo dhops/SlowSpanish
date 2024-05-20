@@ -1,0 +1,5 @@
+*.mp3
+myenv/*
+text/*
+audio/*
+__pycache__/
